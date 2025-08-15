@@ -7811,10 +7811,10 @@
 				min-height: 600px;
 				& when (@RestoreAds = Default) {
 					& when (@LogoStyle = 201408) or (@LogoStyle = 201412) or (@LogoStyle = 201511) {
-						background-image: url(https://images.rbxcdn.com/f6873fd4b192df10f0cb0f41f6a344e7.jpg);
+						background-image: url(https://api.cultist.gay/roblox/skyscraper);
 					}
 					& when (@LogoStyle = 201701) {
-						background-image: url(https://images.rbxcdn.com/e1f0ccbb998d94f80f20b0134a013def.png);
+						background-image: url(https://api.cultist.gay/roblox/skyscraper);
 					}
 					background-size: 160px 600px;
 					background-repeat: no-repeat;
@@ -7889,10 +7889,10 @@
 					min-height: 600px;
 					& when (@RestoreAds = Default) {
 						& when (@LogoStyle = 201408) or (@LogoStyle = 201412) or (@LogoStyle = 201511) {
-							background-image: url(https://images.rbxcdn.com/f6873fd4b192df10f0cb0f41f6a344e7.jpg);
+							background-image: url(https://api.cultist.gay/roblox/skyscraper;
 						}
 						& when (@LogoStyle = 201701) {
-							background-image: url(https://images.rbxcdn.com/e1f0ccbb998d94f80f20b0134a013def.png);
+							background-image: url(https://api.cultist.gay/roblox/skyscraper);
 						}
 						background-size: 160px 600px;
 						background-repeat: no-repeat;
@@ -7940,10 +7940,10 @@
 					min-height: 110px;
 					& when (@RestoreAds = Default) {
 						& when (@LogoStyle = 201408) or (@LogoStyle = 201412) or (@LogoStyle = 201511) {
-							background-image: url(https://images.rbxcdn.com/ab60e8d4d6a69816eec62a561416850f.jpg);
+							background-image: url(https://api.cultist.gay/roblox/banner);
 						}
 						& when (@LogoStyle = 201701) {
-							background-image: url(https://images.rbxcdn.com/bb3b528306366a8b1a5a6ca40ead504a.png);
+							background-image: url(https://api.cultist.gay/roblox/banner);
 						}
 						background-size: 728px 90px;
 						background-repeat: no-repeat;
@@ -7973,10 +7973,10 @@
 					display: block;
 					& when (@RestoreAds = Default) {
 						& when (@LogoStyle = 201408) or (@LogoStyle = 201412) or (@LogoStyle = 201511) {
-							background-image: url(https://images.rbxcdn.com/3361ecd3b9294a517ddf1f304819baac.jpg);
+							background-image: url(https://api.cultist.gay/roblox/largerectangle);
 						}
 						& when (@LogoStyle = 201701) {
-							background-image: url(https://images.rbxcdn.com/b0ccc543789611e0d28fa371a7a73d89.png);
+							background-image: url(https://api.cultist.gay/roblox/largerectangle);
 						}
 						background-size: 300px 270px;
 						background-position: center;
@@ -8012,10 +8012,10 @@
 					display: none;
 					& when (@RestoreAds = Default) {
 						& when (@LogoStyle = 201408) or (@LogoStyle = 201412) or (@LogoStyle = 201511) {
-							background-image: url(https://images.rbxcdn.com/3361ecd3b9294a517ddf1f304819baac.jpg);
+							background-image: url(https://api.cultist.gay/roblox/largerectangle);
 						}
 						& when (@LogoStyle = 201701) {
-							background-image: url(https://images.rbxcdn.com/b0ccc543789611e0d28fa371a7a73d89.png);
+							background-image: url(https://api.cultist.gay/roblox/largerectangle);
 						}
 						background-size: 300px 250px;
 						background-position: 15px 0;
